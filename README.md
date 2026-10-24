@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════ PROFILE BANNER ═══════════════════ -->
 
 <div align="center">
@@ -179,7 +178,7 @@ To help businesses reduce repetitive work, organize leads, improve customer comm
 <a href="https://github.com/johurulislam88">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/learn-with-johurul-515533446/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
